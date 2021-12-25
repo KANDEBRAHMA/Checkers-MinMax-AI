@@ -1,6 +1,6 @@
 # Checkers-MinMax-AI
  
-## Approach to Part 1: Raichu
+## Approach to Raichu
 <h2>Abstraction:</h2><br><br>
 <b>Set of Valid States: </b>
 <p>All legal moves made by the player's pichu(w/b) , pikachu(W,B) and raichu(@,$).</p><br><br>
